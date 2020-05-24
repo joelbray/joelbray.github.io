@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+title: Joel Bray
+email: 
+description: Personal website of Joel Bray, PhD, Data Scientist.
+baseurl: "/"
+url:
+twitter_username: brayjrd
+github_username: joelbray
+
+markdown: kramdown
+
+gems:
+  - jekyll-feed
+exclude:
+  -Gemfile
+  -Gemfile.lock
