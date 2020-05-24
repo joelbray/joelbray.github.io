@@ -8,10 +8,16 @@ active: about
 
 ___
 
-I am a Data Scientist and PhD Candidate at Arizona State University.
+I am a Data Scientist and PhD Researcher at Arizona State University. 
 
-I am currently transitioning into progressive data/political tech.
+I am about to complete my PhD in Anthropology, for which I have studied adult male friendships in wild chimpanzees at Gombe National Park, Tanzania. 
 
-While I build this page, [fork me](https://github.com/joelbray) on GitHub or [connect](https://www.linkedin.com/in/joel-bray/) on LinkedIn.
-
-**[Last updated: May 23, 2020]**
+**My story:** As the wealthiest country on Earth, we have a moral obligation to ensure that everyone has 
+access to the basic necessities of a dignified life: quality health care, safe housing, 
+affordable education, and healthy food. With COVID-19 wreaking havoc on the most vulnerable 
+people in our society, this responsibility has only grown. At the same time, the pandemic has 
+upended elections and political organizing, with campaigns and organizations moving into a 
+digital- and data-intensive space. At this intersection of challenges, I am transitioning 
+into progressive data and political tech. To achieve progressive goals, we need political power. 
+We need a mass mobilization of people in concert with legislators, governors, and a president 
+who will fight for economic and racial justice.

@@ -1,0 +1,37 @@
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+<h2><a class="">a</a></h2>
+      <h1><a class="">Joel Bray</a></h1>
+      <p style="font-size:15px">
+      <i>Data Scientist & PhD Researcher at ASU 
+      	 Pronouns: they/them |
+         SQL, R, Statistics
+         </i>
+         
+      </p>
+      <div class="sidebar-nav">
+            <a class="sidebar-nav-item" href="https://joelbray.github.io/assets/pdfs/Joel_Bray_resume.pdf">Resume</a>
+      </div>
+    <center><img src="/assets/images/headshot.jpg" alt="profile picture" class="responsive"></center>
+    </div>
+
+
+    <div class="sidebar-nav">
+      <a class="sidebar-nav-item" href="/index.html" {% if page.active == 'about' %}style="font-weight:bold"{% endif %}>About</a>
+      <a class="sidebar-nav-item" href="/blog.html" {% if page.active == 'blog' %}style="font-weight:bold"{% endif %}>Blog</a>
+      <a class="sidebar-nav-item" href="/projects.html" {% if page.active == 'projects' %}style="font-weight:bold"{% endif %}>Projects</a>
+      <a class="sidebar-nav-item" href="/publications.html" {% if page.active == 'publications' %}style="font-weight:bold"{% endif %}>Publications</a>
+	  <a class="sidebar-nav-item" href="/photography.html" {% if page.active == 'photography' %}style="font-weight:bold"{% endif %}>Photography</a>
+    </div>
+    
+<div id="social">
+   	{% include social.html %}
+</div>
+
+<div>
+    <br>
+</div>
+
+  </div>
+</div>
