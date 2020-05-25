@@ -64,6 +64,3 @@ ___
 
 <img src="/assets/images/wildlife/safari/DSC_2729.jpg">
 
-## Linyanti Concessions, Botswana
-
-<img src="/assets/images/wildlife/safari/DSC_3062.jpg">
