@@ -28,4 +28,4 @@ MacLean EL, Hare B, Nunn CL…**Bray J**…et al. 2014. <span style="color:green
 
 MacLean EL, Sandel AA, **Bray J**, Oldenkamp RE, Reddy RB, Hare BA. 2013. <span style="color:green">Group size predicts social but not nonsocial cognition in lemurs.</span> PLoS ONE, 8(6): e66359. DOI:10.1371/journal.pone.0066359. [[pdf]](https://joelbray.github.io/assets/pdfs/maclean_2013_plosone.pdf)
 
-<center><img src="/assets/images/gombe_datacollection.jpg" alt="data collection" class="responsive"><figcaption>Observations of wild chimpanzees at Gombe National Park, Tanzania.</figcaption></center>
+<center><img src="/assets/images/gombe_datacollection.jpg" class="responsive"><figcaption>Observations of wild chimpanzees at Gombe National Park, Tanzania.</figcaption></center>
