@@ -24,8 +24,8 @@ Borries C, Sandel AA, Koenig A, Fernandez-Duque E, Kamilar JM…**Bray J**…et 
 
 MacLean EL, Hare B, Nunn CL…**Bray J**…et al. 2014. <span style="color:green">The evolution of self-control.</span> Proceedings of the National Academy of Sciences, 111(20): E2140–E2148. DOI:10.1073/pnas.1323533111. [[pdf]](https://joelbray.github.io/assets/pdfs/maclean_2014_pnas.pdf)
 
-**Bray J**, Krupenye C, Hare B. 2014. <span style="color:green">Ring-tailed lemurs (Lemur catta) exploit information about what others can see but not what they can hear.</span> Animal Cognition, 17(3):735-744. DOI:10.1007/s10071-013-0705-0. [[pdf]](https://joelbray.github.io/assets/pdfs/bray_2014_animcogn.pdf)
+**Bray J**, Krupenye C, Hare B. 2014. <span style="color:green">Ring-tailed lemurs (*Lemur catta*) exploit information about what others can see but not what they can hear.</span> Animal Cognition, 17(3):735-744. DOI:10.1007/s10071-013-0705-0. [[pdf]](https://joelbray.github.io/assets/pdfs/bray_2014_animcogn.pdf)
 
 MacLean EL, Sandel AA, **Bray J**, Oldenkamp RE, Reddy RB, Hare BA. 2013. <span style="color:green">Group size predicts social but not nonsocial cognition in lemurs.</span> PLoS ONE, 8(6): e66359. DOI:10.1371/journal.pone.0066359. [[pdf]](https://joelbray.github.io/assets/pdfs/maclean_2013_plosone.pdf)
 
-<center><img src="/assets/images/gombe_datacollection.jpg" class="responsive"><figcaption>Observations of wild chimpanzees at Gombe National Park, Tanzania.</figcaption></center>
+<center><img src="/assets/images/gombe_observations.jpg" class="responsive"><figcaption>Observations of wild chimpanzees at Gombe National Park, Tanzania.</figcaption></center>
