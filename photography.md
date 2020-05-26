@@ -6,9 +6,13 @@ active: photography
 
 <p><h1>Photography</h1></p>
 
-Assorted photos from my research and travels
+Assorted photos from my life, research, and travels
 
 ___
+
+## Newnan, GA
+
+<img src="/assets/images/Buffy.jpg"><figcaption>My dog, Buffy</figcaption>
 
 ## Gombe National Park, Tanzania
 
