@@ -12,7 +12,7 @@ ___
 
 ## Newnan, GA
 
-<img src="/assets/images/Buffy.jpg"><figcaption>My dog, Buffy</figcaption>
+<left><img src="/assets/images/Buffy.jpg"></left><center><figcaption>My dog, Buffy</figcaption></center>
 
 ## Gombe National Park, Tanzania
 
