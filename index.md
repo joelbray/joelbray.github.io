@@ -19,7 +19,7 @@ people in our society, this responsibility has only grown. At the same time, the
 upended elections and political organizing, with campaigns and organizations moving into a 
 digital- and data-intensive space. At this intersection of challenges, I am transitioning 
 into progressive data and political tech. To achieve progressive goals, we need political power. 
-We need a mass mobilization of people in concert with city council members, mayors, legislators, 
+We need a mass mobilization of people and communities in concert with city council members, mayors, legislators, 
 governors, and a president who will fight for economic, racial, and climate justice.
 
 
