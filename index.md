@@ -16,11 +16,11 @@ I am about to complete my PhD in Anthropology, for which I have studied adult ma
 access to the basic necessities of a dignified life: quality health care, safe housing, 
 affordable education, and healthy food. With COVID-19 wreaking havoc on the most vulnerable 
 people in our society, this responsibility has only grown. At the same time, the pandemic has 
-upended elections and political organizing, with campaigns and organizations moving into a 
-digital- and data-intensive space. At this intersection of challenges, I am transitioning 
-into progressive data and political tech. To achieve progressive goals, we need political power. 
-We need a mass mobilization of people and communities in concert with city council members, mayors, legislators, 
-governors, and a president who will fight for economic, racial, and climate justice.
+upended elections and political organizing, with campaigns and organizations moving into a more
+digital- and data-intensive space. 
 
-
-
+At this intersection of challenges, I am transitioning into progressive data and political technology 
+because we need political power to achieve progressive goals. As protests against systemic racism and 
+police violence have recently demonstrated, we need a mass mobilization of people and communities 
+in concert with city council members, mayors, legislators, governors, and a president who will 
+fight for economic, racial, and climate justice.
