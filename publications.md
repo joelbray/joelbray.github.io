@@ -6,11 +6,13 @@ active: publications
 
 <p><h1>Publications</h1></p>
 
-+ Before my transition to progressive data and political tech, I studied social cognition in primates, sleep in lemurs, and social behavior in wild chimpanzees.
++ Before my transition to the progressive data space, I studied social cognition in primates, sleep in lemurs, and social behavior in wild chimpanzees.
 
 + I used a variety of observational and experimental methods as well as both frequentist and Bayesian statistics.
 
 ___
+
+**Bray J**, Gilby IC. 2020. <span style="color:green">Social relationships among adult male chimpanzees (Pan troglodytes schweinfurthii): variation in the strength and quality of social bonds.</span> Behavioral Ecology and Sociobiology. 74(9): 1-19. DOI:10.1007/s00265-020-02892-3. [[view]](https://link.springer.com/epdf/10.1007/s00265-020-02892-3?sharing_token=jmwYNOGJOGD3xSfvuBV4nPe4RwlQNchNByi7wbcMAY6GnyAlG4zHoFc0WofiLBPIKt-I5FvsOCfPI_hMBnblAx_X5QjW2ystdHYk9p2WLs8UaNcHEcPvdtCLkpUpgxvVb3QOyqRxk5k0KSC_httw6NjSNTZOR874vj9Ab8ak9cY%3D)
 
 Samson DR, **Bray J**, Nunn CL. 2018. <span style="color:green">The cost of deep sleep: environmental influences on sleep regulation are greater for diurnal lemurs.</span> American Journal of Physical Anthropology, 166(3):578-589. DOI:10.1002/ajpa.23455. [[pdf]](https://joelbray.github.io/assets/pdfs/samson_2018_ajpa.pdf)
 
