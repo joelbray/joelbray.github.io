@@ -12,6 +12,6 @@ I am the Arizona Data Director at Mi Familia Vota, a Latinx civic engagement org
 I am also about to complete a PhD in Anthropology at Arizona State University, where I have 
 studied friendship among wild chimpanzees.
 
-In my spare time, I volunteer as a Data Team Lead for the [[Emergency Workplace Organizing Committee]](https://workerorganizing.org/), helping
-non-unionized workers organize their workplaces. I also volunteer as a Policy Organizer for the [[Democracy Policy Network]](https://democracypolicy.network/), 
+In my spare time, I volunteer as a Data Team Lead for the [Emergency Workplace Organizing Committee](https://workerorganizing.org/), helping
+non-unionized workers organize their workplaces. I also volunteer as a Policy Organizer for the [Democracy Policy Network](https://democracypolicy.network/), 
 helping package bold policy for state legislators.
