@@ -4,7 +4,7 @@ title: Joel Bray
 active: publications
 ---
 
-<p><h1>Publications</h1></p>
+<h1>[[Publications]](https://scholar.google.com/citations?user=qJ7i1SgAAAAJ&hl=en)</h1>
 
 + Before my transition to the progressive data space, I studied social cognition in primates, sleep in lemurs, and social behavior in wild chimpanzees.
 
