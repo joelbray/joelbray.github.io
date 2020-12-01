@@ -8,19 +8,23 @@ active: about
 
 ___
 
-I am a Data Scientist and PhD Researcher at Arizona State University. 
+**Professional Summary**
 
-I am about to complete my PhD in Anthropology, for which I have studied adult male friendships in wild chimpanzees at Gombe National Park, Tanzania. 
+• Curious and data-driven leader with political and scientific experience in data management, 
+data visualization, data analytics, and statistics using R and SQL
 
-**My story:** As the wealthiest country on Earth, we have a moral obligation to ensure that everyone has 
-access to the basic necessities of a dignified life: quality health care, safe housing, 
+• Adept project manager and cross-functional communicator, having worked collaboratively 
+to evaluate and advise state voter contact programs, publish 9 research projects, and explain 
+scientific subjects to K-12 students, undergraduates, and incarcerated people in an Arizona prison
+
+• Dedicated organizer with political and labor experience (Obama '08; Bernie '20; 
+Arizona '20 General Election; Georgia '21 Senate Runoff; Emergency Workplace Organizing Committee)
+
+**My story:** As the wealthiest country on Earth, we have a moral obligation to ensure that 
+everyone has access to the basic necessities of a dignified life: quality health care, safe housing, 
 affordable education, and healthy food. With COVID-19 wreaking havoc on the most vulnerable 
-people in our society, this responsibility has only grown. At the same time, the pandemic has 
-upended elections and political organizing, with campaigns and organizations moving into a more
-digital- and data-intensive space. 
-
-At this intersection of challenges, I am transitioning into progressive data and political technology 
-because we need political power to achieve progressive goals. As protests against systemic racism and 
-police violence have recently demonstrated, we need a mass mobilization of people and communities 
-in concert with city council members, mayors, legislators, governors, and a president who will 
-fight for economic, racial, and climate justice.
+people in our society, this responsibility has only grown. In the midst of this crisis, I decided 
+to transition into progressive data and political tech. To achieve progressive goals, we need political 
+power in the hands of people. We need a mass mobilization of people and communities in concert 
+with school board and city council members, mayors, legislators, governors, and a president 
+who will fight for economic, racial, and climate justice.
