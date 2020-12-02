@@ -14,4 +14,7 @@ studied friendship among wild chimpanzees.
 
 In my spare time, I volunteer as a Data Team Lead for the [Emergency Workplace Organizing Committee](https://workerorganizing.org/), helping
 non-unionized workers organize their workplaces. I also volunteer as a Policy Organizer for the [Democracy Policy Network](https://democracypolicy.network/), 
-helping package bold policy for state legislators.
+where I am currently packaging bold health care policy for state legislators.
+
+Otherwise, I like to read science fiction, listen to Broadway musicals, and explore the 
+outdoors with my family, including my 12 lb poodle mix, Buffy, who out-hikes us all.
